@@ -573,22 +573,22 @@ section {
 }
 
 #ia {
-    background: url("/img/ia-detail.jpg") no-repeat fixed;
+    background: url("/img/sketching.png") no-repeat fixed;
     background-size: cover;
 }
 
 #vd {
-    background: url("/img/vd.jpg") no-repeat fixed;
+    background: url("/img/marketing1.png") no-repeat fixed;
     background-size: cover;
 }
 
 #usability {
-    background: url("/img/books.jpg") no-repeat fixed;
+    background: url("/img/usability.png") no-repeat fixed;
     background-size: cover;
 }
 
 #html-css {
-    background: url("/img/css-html.jpg") no-repeat fixed;
+    background: url("/img/marketing.png") no-repeat fixed;
     background-size: cover;
 }
 
@@ -674,7 +674,7 @@ p.editor .lolcode,p.editor .whitespace,p.editor .brainfuck {
 }
 
 #contact {
-    background: url("/img/space.jpg") no-repeat fixed;
+    background: url("/img/grunge.png") no-repeat fixed;
     background-size: cover;
     padding: 0;
     color: #fff;
