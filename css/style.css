@@ -433,7 +433,7 @@ section {
     height: 256px;
     width: 256px;
     margin: 30px auto;
-    *border-radius: 50%;
+    border-radius: 50%;
     box-shadow: #fff 0 0 0 10px,#aaa 0 0 0 11px;
     -o-transition: all 0.3s ease-in;
     -moz-transition: all 0.3s ease-in;
