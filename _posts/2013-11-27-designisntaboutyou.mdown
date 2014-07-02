@@ -1,3 +1,8 @@
+---
+Layout: post
+title: Design isn't about you!
+---
+
 ##Design isn't about you!
 
 So the other day I was speaking to some friends of mine and something weird came up. One particular thing that my friend said struck a nerve with me and that was *" Sorry, UXMonkey, you'll never feel what every little boy in India feels when he watches Sachin Tendulkar bat."*
