@@ -17,16 +17,15 @@
   nav li{
   margin-right: 5px;
   float: left;
-  padding: 20px;
+  padding: 25px;
   }
   nav ul{
 
     list-style: none;
 
   }
-.contain{
+.container{
 
-  margin-right: 1em;
 }
 
     .inner {
