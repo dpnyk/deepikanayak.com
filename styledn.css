@@ -17,12 +17,17 @@
   nav li{
   margin-right: 5px;
   float: left;
+  padding: 20px;
   }
   nav ul{
 
     list-style: none;
 
   }
+.contain{
+
+  margin-right: 1em;
+}
 
     .inner {
       text-align: center;
