@@ -62,3 +62,18 @@
   height: 100%; /* Override in-line if you want specific height. */
   float: left;
 }
+.cycled-text {
+    background: url('img/macandbook.png') no-repeat;
+    width: 700px;
+    height: 467px;
+}
+.message {
+    color: #fff;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: center;
+    padding: 60px 0;
+    list-style: none;
+}
+
+
