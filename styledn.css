@@ -66,6 +66,8 @@
     background: url('img/macandbook.png') no-repeat;
     width: 700px;
     height: 467px;
+    margin-right: auto;
+    margin-left: auto;
 }
 .message {
     color: #fff;
