@@ -6,7 +6,7 @@ category: musings
 tags: [sample post, readability, test]
 author:
   name: Deepika Nayak
-  avatar: mesign.jpg
+  avatar: profilepic.jpg
 comments: true
 share: true
 ---

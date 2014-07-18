@@ -1,6 +1,6 @@
 title:            Deepika Nayak
 description:      Experiments of a curious designer
-logo:             mesign.jpg
+logo:             profilepic.jpg
 disqus_shortname: shortname
 search:           true
 # Your site's domain goes here. When working locally use localhost server leave blank
@@ -11,7 +11,7 @@ url:  http://deepikanayak.com/
 # Owner/author information
 owner:
   name:           Deepika Nayak
-  avatar:         mesign.jpg
+  avatar:         profilepic.jpg
   email:          dipikanayak86@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
