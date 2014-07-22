@@ -5,17 +5,16 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>My Musings &#8211; Deepika Nayak</title>
-<meta name="description" content="Experiments of a curious Designer">
-<meta name="keywords" content="Jekyll, theme, themes, responsive, blog, minimalism">
-
+<title>Deepika Nayak</title>
+<meta name="description" content="Experiments with Design">
+<meta name="keywords" content="Jekyll, theme, responsive, blog, template">
 
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="My Musings">
-<meta property="og:description" content="Experiments of a curious Designer">
+<meta property="og:title" content="Deepika Nayak">
+<meta property="og:description" content="Experiments with Design">
 <meta property="og:url" content="http://localhost:4000/index.html">
 <meta property="og:site_name" content="Deepika Nayak">
 
@@ -32,15 +31,21 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<!-- Google Webfonts -->
+<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
 <!-- For all browsers -->
 <link rel="stylesheet" href="http://localhost:4000/assets/css/main.min.css">
-<!-- Webfonts -->
-<script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
 
 <meta http-equiv="cleartype" content="on">
 
-<!-- Load Modernizr -->
-<script src="http://localhost:4000/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://localhost:4000/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://localhost:4000/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
 
 <!-- Icons -->
 <!-- 16x16 -->
@@ -58,149 +63,99 @@
 
 </head>
 
-<body id="page">
+<body class="home">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
 
 <div class="navigation-wrapper">
-	<nav role="navigation" id="site-nav" class="animated drop">
-	    <ul>
-	        
-			<li>
-				
-					<a href="http://localhost:4000/about/">About</a>
-				 
-			</li>
-	        
-			<li>
-				
-					<a href="http://localhost:4000/musings/">Musings</a>
-				 
-			</li>
-	        
-			<li>
-				
-					<a href="/work/">Work</a>
-				 
-			</li>
-	        
-	        <li><a href="http://localhost:4000/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
-	        <li class="dosearch"><i class="icon-search"></i> Search</li>
-	    </ul>
-	</nav>
+	<div class="site-name">
+		<a href="http://localhost:4000">Deepika Nayak</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				<li><a href="http://localhost:4000/posts/" >Posts</a></li>
+		        
+				<li><a href="/work/" target="_blank">Work</a></li>
+		        
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
 
-<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
 
-<div class="search-wrapper">
-	<div class="search-form">
-		<input type="text" class="search-field" placeholder="Search...">
-		<i class="icon-remove-sign icon-2x"></i>
-		<ul class="search-results post-list"></ul><!-- /.search-results -->
-	</div><!-- /.search-form -->
-</div><!-- ./search-wrapper -->
-
-<header class="masthead">
-	<div class="wrap">
-        
-    		<a href="http://localhost:4000/" class="site-logo" rel="home" title="Deepika Nayak"><img src="http://localhost:4000/images/mesign.jpg" width="200" height="200" alt="Deepika Nayak logo" class="animated fadeInUp"></a>
-        
-        <h1 class="site-title animated fadeIn"><a href="http://localhost:4000/">Deepika Nayak</a></h1>
-		<h2 class="site-description animated fadeIn" itemprop="description">Experiments of a curious designer</h2>
-	</div>
-</header><!-- /.masthead -->
-
-
-<div id="main" role="main">
-  <article class="entry">
+  <div class="image-wrap">
+  <img src=
     
-    <div class="entry-wrapper">
-      <header class="entry-header">
-        <h1 class="entry-title">My Musings</h1>
-      </header>
-      <div class="entry-content">
-        <ul class="post-list">
- 
-  <li><article><a href="http://localhost:4000/articles/author-override/">Override Author Byline Test Post <span class="entry-date"><time datetime="2014-06-19T00:00:00+00:00">June 19, 2014</time></span></a></article></li>
- 
-  <li><article><a href="http://localhost:4000/musings/How-to-be-a-ux-designer/">How can I be a good UX Designer <span class="entry-date"><time datetime="2013-11-30T00:00:00+00:00">November 30, 2013</time></span></a></article></li>
- 
-  <li><article><a href="http://localhost:4000/musings/How-to-be-a-ux-designer/">How can I be a good UX Designer <span class="entry-date"><time datetime="2013-11-30T00:00:00+00:00">November 30, 2013</time></span></a></article></li>
- 
-  <li><article><a href="http://localhost:4000/musings/Icecream-and-UX/">Icecream and User Experience <span class="entry-date"><time datetime="2013-11-28T00:00:00+00:00">November 28, 2013</time></span></a></article></li>
- 
-  <li><article><a href="http://localhost:4000/musings/design-isn't-about-you/">Design isn't about you! <span class="entry-date"><time datetime="2013-11-27T00:00:00+00:00">November 27, 2013</time></span></a></article></li>
- 
-  <li><article><a href="http://localhost:4000/articles/code-highlighting-post/">Syntax Highlighting Post <span class="entry-date"><time datetime="2013-08-16T00:00:00+00:00">August 16, 2013</time></span></a></article></li>
- 
-  <li><article><a href="http://localhost:4000/articles/sample-link-post/">Sample Link Post <span class="entry-date"><time datetime="2013-08-12T00:00:00+00:00">August 12, 2013</time></span></a></article></li>
- 
-  <li><article><a href="http://localhost:4000/articles/video-post/">A Post with a Video <span class="entry-date"><time datetime="2013-06-25T00:00:00+00:00">June 25, 2013</time></span></a></article></li>
- 
-  <li><article><a href="http://localhost:4000/articles/readability-feature-post/">Post with Large Feature Image and Text <span class="entry-date"><time datetime="2013-05-23T00:00:00+00:00">May 23, 2013</time></span></a></article></li>
+      "http://localhost:4000/images/texture-feature-09.jpg"
+    
+  alt=" feature image">
+  
+    <span class="image-credit">Photo Credit: <a href="http://unsplash.com">Sonja Langford</a></span>
+  
+  </div><!-- /.image-wrap -->
 
-</ul>
-      </div><!-- /.entry-content -->
-    </div><!-- /.entry-wrapper -->
+
+<div class="article-author-side">
+  
+	<img src="http://localhost:4000/images/profilepic.jpg" class="bio-photo" alt="The UXmonkey bio photo"></a>
+
+<h3>The UXmonkey</h3>
+<p>A constantly experimenting design enthusiast</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<div id="index">
+  <h3><a href="http://localhost:4000/posts/">Recent Posts</a></h3>
+      
+  <article>
+    
+      <h2><a href="http://localhost:4000/musings/How-to-be-a-ux-designer/" title="How can I be a good UX Designer">How can I be a good UX Designer</a></h2>
+      <p>Some aspects of being a designer</p>
+    
   </article>
-</div><!-- /#main -->
+      
+  <article>
+    
+      <h2><a href="http://localhost:4000/musings/Icecream-and-UX/" title="Icecream and User Experience">Icecream and User Experience</a></h2>
+      <p>User Experience matters in day to day life</p>
+    
+  </article>
+      
+  <article>
+    
+      <h2><a href="http://localhost:4000/musings/design-isn't-about-you/" title="Design isn't about you!">Design isn't about you!</a></h2>
+      <p>Perspective of design</p>
+    
+  </article>
+  
+</div><!-- /#index -->
 
-<div class="footer-wrapper">
-  <footer role="contentinfo">
-    <span>&copy; 2014 Deepika Nayak. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/so-simple/">So Simple Theme</a>.</span>
-<div class="social-icons">
-	
-	
-	
-	
-	
-	
-	
-	
-	
-</div><!-- /.social-icons -->
+<div class="footer-wrap">
+  <footer>
+    <span>&copy; 2014 The UXmonkey. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme.</span>
+
   </footer>
-</div><!-- /.footer-wrapper -->
+</div><!-- /.footer-wrap -->
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="http://localhost:4000/assets/js/scripts.min.js"></script>
 
-<!-- Jekyll Simple Search option -->
-<script>
-  $(document).ready(function() {
-      $('.search-field').simpleJekyllSearch({
-          jsonFile : 'http://localhost:4000/search.json',
-          searchResults : '.search-results',
-          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
-          noResults: '<p>Nothing found.</p>'
-        });
-  });
 
-  (function( $, window, undefined ) {
-    
-     var bs = {
-          close: $(".icon-remove-sign"),
-          searchform: $(".search-form"),
-          canvas: $("body"),
-          dothis: $('.dosearch')
-      };
-    
-    bs.dothis.on('click', function() {
-      $('.search-wrapper').css({ display: "block" });
-      bs.searchform.toggleClass('active');
-      bs.searchform.find('input').focus();
-      bs.canvas.toggleClass('search-overlay');
-    });
-    
-      bs.close.on('click', function() {
-        $('.search-wrapper').removeAttr( 'style' );
-        bs.searchform.toggleClass('active');
-        bs.canvas.removeClass('search-overlay');
-    });
-  })( jQuery, window );
-</script>
-
-
-          
-
+  
 </body>
 </html>

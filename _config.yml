@@ -1,27 +1,30 @@
 title:            Deepika Nayak
 description:      Experiments of a curious designer
-logo:             profilepic.jpg
-disqus_shortname: shortname
-search:           true
-# Your site's domain goes here. When working locally use localhost server leave blank
-# PS. If you set this wrong stylesheets and scripts won't load and most links will break.
-# PPS. If you leave it blank for local testing home links won't work, they'll be fine for live domains though.
-url:  http://deepikanayak.com/
-#http://localhost:4000      
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://deepikanayak.com
+disqus_shortname:
+
 # Owner/author information
 owner:
-  name:           Deepika Nayak
+  name:           The UXmonkey
   avatar:         profilepic.jpg
+  bio:            "A constantly experimenting design enthusiast"
   email:          dipikanayak86@gmail.com
-  # Social networking links used in footer. Update and remove as you like.
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
   github:
+  stackoverflow:
   linkedin:
   instagram:
+  lastfm:
   tumblr:
+  pinterest:
+  foursquare:
+  steam:
+  dribbble:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -32,18 +35,35 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Musings
-    url: /musings/
+  - title: Posts
+    url: /posts/
   - title: Work
     url: /work/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Delhi
+future:      true
 pygments:    true
+#highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
