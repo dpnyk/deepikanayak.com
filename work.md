@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /work/
-title: Theme Setup
+title: My Work
 description: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
 tags: [Jekyll, theme, responsive]
 image:
