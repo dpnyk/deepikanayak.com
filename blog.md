@@ -1,6 +1,6 @@
 ---
 layout: post-index
-permalink: /posts/
+permalink: /blog/
 title: Machinations of my mind
 tagline: Machinations of my mind
 tags: [blog]

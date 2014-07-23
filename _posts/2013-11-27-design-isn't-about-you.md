@@ -2,7 +2,7 @@
 layout: post
 title: "Design isn't about you!"
 description: "Perspective of design"
-category: musings
+category: blog
 tags: [sample post, readability, test]
 author:
   name: Deepika Nayak

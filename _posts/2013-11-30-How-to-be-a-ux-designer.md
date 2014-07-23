@@ -2,7 +2,7 @@
 layout: post
 title: "How can I be a good UX Designer"
 description: "Some aspects of being a designer"
-category: musings
+category: blog
 tags: [sample post, readability, test]
 author:
   name: Deepika Nayak

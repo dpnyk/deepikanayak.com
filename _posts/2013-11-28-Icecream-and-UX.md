@@ -2,7 +2,7 @@
 layout: post
 title: "Icecream and User Experience"
 description: "User Experience matters in day to day life"
-category: musings
+category: blog
 tags: [sample post, readability, test]
 author:
   name: Deepika Nayak
