@@ -1,23 +1,14 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-{% include _head.html %}
-<link rel="stylesheet" href="/work.css" />
-</head>
-<body>
-<div id="wrapper">
-	<div id="columns">
-		<div class="pin"> 
-			<p>
-				<a href="{{ post.url }}">
-      				<img src="{{ post.image }}" />
-      							<h3>{{ post.title }}</h3>
-			</p>
-		</div>	
-
-	</div>
+---
+layout: default
+permalink: work/
+---
+<div>
+  <ul>
+  {% for item in site.categories.work limit:1000 %}
+    <li>
+      <img src="{{item.image}}" />
+      {{item.title}}
+    </li>
+  {% endfor %}
+  </ul>
 </div>
-</body>
