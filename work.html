@@ -6,7 +6,7 @@ permalink: work/
   <ul>
   {% for item in site.categories.work limit:1000 %}
     <li>
-      <img src="{{item.image}}" />
+      <img src="/images/{{item.image}}" />
       {{item.title}}
     </li>
   {% endfor %}
