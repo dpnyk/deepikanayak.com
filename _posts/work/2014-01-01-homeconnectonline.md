@@ -1,7 +1,6 @@
 ---
 title: HomeConnect Online 
-image:
-  feature: hco-image.jpg
+image: hco-image.jpg
 category: work
 ---
 
