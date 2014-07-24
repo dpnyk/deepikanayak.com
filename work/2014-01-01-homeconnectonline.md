@@ -1,5 +1,4 @@
 ---
-layout: work
 title: HomeConnect Online 
 image:
   feature: hco-image.jpg
