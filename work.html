@@ -35,7 +35,10 @@ permalink: work/
   {% for item in site.categories.work limit:1000 %}
     <div class="media box">
       <h1>{{item.title}}</h1>
-      <img class="media_img" src="/images/{{item.image}}" />
+      {% if item.image %} 
+            <img class="media_img" src="/images/{{item.image}}" />
+             {% endif %}
+             
       <div class="media_body">
         <p>{{item.content}}</p>
       </div>
