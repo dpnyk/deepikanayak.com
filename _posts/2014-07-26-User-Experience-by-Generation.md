@@ -24,13 +24,13 @@ That it sold 64 million consoles definitely tells us that it was highly popular 
 
  These days we design interfaces for people to interact and yet after a while, the content gets too old and obsolete, the trends in design change and the general perception changes. What once was a delightful experience now becomes a tedious chore. Gameboy's been no different but the kids got it right though, Gameboy was a revolutionary device and a milestone in the industry of gaming devices.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/SqYiglufb8Y" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/0pCp8g-VjOs" frameborder="0"> </iframe>
 
 On the contrary,
 
 The reaction of **Elders React**  to google glass was not too dissimilar. Most people got how it's put wrong. One person confused it for hearing aid but some had heard of it. The kids wanted no switch on button where as the adults scrambled to look for it. Plain speaking to the device seemed very abnormal to them. One lady particularly mentioned she did not like it, some commented that it would be a pain to use on the street and that smartphones already were hated enough. It was uncomfortable to wear all day long and could cause accidents while driving. Privacy issues were also highlighted.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xw95AZzPpsU" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xw95AZzPpsU" frameborder="0"> </iframe>
 
 But the key thing, Majority of either group did not want the devices presented to them, which only shows that User Experience is a whole lot about context and Time than previously thought.
 
