@@ -10,7 +10,7 @@ author:
 comments: true
 share: true
 ---
-##Icecream and User Experience.
+
 
 Yesterday while I was driving back home, I was waiting at a red light when I saw a Naturals Icecream Parlour at the corner of the cross road and decided to buy a tub of icecream. Naturals is a famous brand in India which produces flavours of icecream that are fruit based and have no preservatives. The icecream is expensive as compared to your natural run of the mill, mass produced icecream because of the natural ingredients and the fact that the icecream is never more than a week old. I grabbed myself a custard apple tub and came home.
 

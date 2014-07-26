@@ -11,8 +11,6 @@ comments: true
 share: true
 ---
 
-##Design isn't about you!
-
 So the other day I was speaking to some friends of mine and something weird came up. One particular thing that my friend said struck a nerve with me and that was *" Sorry, UXMonkey, you'll never feel what every little boy in India feels when he watches Sachin Tendulkar bat."*
 
 This was on the eve of Sachin's retirement and they were obviously sentimental but I immediately started arguing with him that it didn't matter what the gender of the person was and even though he did not mean it literally, every boy or man in India did not necessarily idolize Sachin as he did. His retort was quick too " Those who claim not to like him are wannabes." . It was then I realised that my friend would never make a good user experience designer.(Yes, I almost always put things to perspective no matter whatever happens with a UX angle.)

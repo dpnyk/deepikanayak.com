@@ -11,8 +11,6 @@ comments: true
 share: true
 ---
 
-##How can I be a good UX Designer?
-
 To be a good User Experience Designer, you have to understand the customer/ user and the problem. The key is to solve the problem with the help of design.You have to understand the various aspects of User Experience design and find a niche and complement it with other skills.  I speak of the UX from the context of the web.Broadly UX can be categorized into
 
 **User Research** - This is one of the key parts of UX, User research is done to understand your customer. Without user research, you may design the best looking website that works great but if no one wants it, then it is going to fail. User research can be done in many ways from observation, personal interviews, to user forms and surveys and also user personas. Each designer chooses to do the research in their own way based on the amount of data and access they have.
