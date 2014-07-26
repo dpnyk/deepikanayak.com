@@ -32,5 +32,3 @@ Always keep learning!
 Until Laters,
 
 The UXmonkey.
-
-<div markdown="0"><a href="#" class="btn">This is a button</a></div>
