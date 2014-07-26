@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "User Experience by Generation"
-description: "Perspective of design"
+description: "Design with context and Time factor"
 category: blog
 tags: [sample post, readability, test]
 author:
