@@ -1,17 +1,15 @@
 --- 
-layout: post 
-title: "Customer Support and User Experience - How
-Instagram is dangerous" 
-description: "Why support forms a key part of
-great user experience" 
-category: blog 
-tags: [support, user experience,
-instagram] 
+layout: post
+title: "Customer Support and User Experience"
+description: "Great support forms a key part of a delectable user experience"
+category: blog
+tags: [support, ux, instagram]
 author:
-  name: Deepika Nayak 
-  avatar: profilepic.jpg 
-comments:true 
+  name: Deepika Nayak
+  avatar: profilepic.jpg
+comments: true
 share: true
+
 ---
 
 When the term User Experience comes into mind, most people think of well

@@ -1,7 +1,8 @@
 title:            Deepika Nayak
 description:      Experiments of a curious designer
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:             http://deepikanayak.com
+url:   http://deepikanayak.com 
+# http://localhost:4000      
 disqus_shortname:
 
 # Owner/author information
