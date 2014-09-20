@@ -1,6 +1,6 @@
 --- layout: post 
-title: "Customer Support and User Experience and why
-instagram is dangerous" 
+title: "Customer Support and User Experience - How
+Instagram is dangerous" 
 description: "Why support forms a key part of
 great user experience" 
 category: blog 
@@ -57,5 +57,4 @@ This is a case of not only bad user experience but also a case where bad
 UX can cause monetary losses and loss of customers for businesses.
 
 It's been two months and counting. I've still not received my reset
-link. All I know is I will never use instagram again except to delete my
-account and data on it once I do get access back.
+link. 
