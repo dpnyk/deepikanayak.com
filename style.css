@@ -1,0 +1,37 @@
+body {
+ background: #f3f2f1;
+ color: #31302e;
+ font-family: "Source Sans Pro", "sans-serif";
+}
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* =Typography */
+h2 {
+  font-size: 2em;
+  line-height: 1.2;
+}
+p {
+  font-family: "Source Serif Pro", "georgia", "serif";
+  line-height: 1.5;
+}
+.lede {
+  margin-left: 1em;
+}
+
+/* =grid */
+.row:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+.col {
+  float: left;
+  box-sizing: border-box;
+}
+.col-half {
+  width: 50%;
+}
