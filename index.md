@@ -1,5 +1,11 @@
 ---
-layout: post
+layout: home
 ---
 
-I'm still working on designing my homepage. Why don't you check out my <a href="/work/">portfolio</a> meanwhile?
+I'm a User Experience designer based out of Bangalore. I've worked on various aspects of User Experience Design, Branding and Marketing. Checkout my <a href="/work/">portfolio</a> here
+
+## Recent blog posts
+
+{% for post in site.posts %}
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+{% endfor %}
