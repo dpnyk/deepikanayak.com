@@ -1,5 +1,6 @@
 ---
-layout: work
+title: Portfolio
+layout: list
 permalink: work/
-intro: This is my portfolio
+intro: Some of my recent work
 ---
