@@ -1,8 +1,8 @@
 ---
-title: Flip my Art
+title: FMA
 layout: work
-permalink: "work/flip-my-art/"
-intro: Flip my art is a dubai based e-commerce startup that is a market place for student and amateur artists and first time art buyers.  FMA aims to bring affordable art to everyone. I have been instrumental in leading the entire user experience design process for this. To create a marketplace for an art based startup was new and challenging as art buying is seen as a luxury and mostly the perception of artists has been skewed in the mind of buyers. 
+permalink: "work/FMA/"
+intro: FMA is a dubai based e-commerce startup that is a market place for student and amateur artists and first time art buyers.  FMA aims to bring affordable art to everyone. I have been instrumental in leading the entire user experience design process for this. To create a marketplace for an art based startup was new and challenging as art buying is seen as a luxury and mostly the perception of artists has been skewed in the mind of buyers. 
 ---
 
 # Product
