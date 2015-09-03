@@ -1,10 +1,11 @@
 ---
-title: naveenlakkur.com
+title: "Naveen Lakkur's personal Website"
 layout: work
 permalink: "work/naveen-lakkur/"
 intro: Naveen Lakkur is a prominent Entrepreneur and a business leader.The main goal of his personal website is branding and promotion of various innovative concepts invented by Naveen.
 published: true
 ---
+
 
 
 
