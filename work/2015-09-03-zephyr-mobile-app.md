@@ -1,5 +1,13 @@
+---
+title: Zephyr
+layout: work
+permalink: "work/zephyr/"
+intro: "A mobile app for their existing software testing product"
+date: '2010-09-03'
+---
 
 # Product
+
 A mobile app for their existing software testing product
 
 ## Responsibilities
@@ -13,9 +21,10 @@ A mobile app for their existing software testing product
 
 The key challenge was to bring the flow of an enterprise test execution application to a webapp that was consistent across cross device platforms. Enterprise software is usually seen as heavy and bulky and restricted to desktop, we worked to break this notion and make it equally accesible and usable across a myriad of devices.
 
-
 ## Process
+
 We started off understanding the client requirements which were majorly categorised into
+
 - Access projects release and test cycles
 - Create new filters of test executions
 - Access existing filters
@@ -42,4 +51,5 @@ Each of these requirements were analysed and the current enterprise flow was stu
 
 
 ## Learnings
+
 UX for enterprise software was a new area for me. I realised that my computer science background and previous work ex as a developer for an enterprise software company helped me understand the nuances better and also speak to the users in their own jargon and bond better to know their problems and consequently coming up with solutions.

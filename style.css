@@ -67,6 +67,9 @@ li {
 p {
   margin-bottom: 1.5rem;
 }
+p:last-child {
+  margin-bottom: 0;
+}
 ul {
   margin :0 0 1.5rem 0;
   padding: 0;
@@ -103,6 +106,16 @@ a:hover {
 }
 .header-content {
   color: #ECF0F1;
+}
+.page-content img {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+.section {
+  border-bottom: 1px dotted #DBE0E0;
+  padding-bottom: 18px;
+  margin-bottom: 36px;
 }
 .footer {
   border-bottom: 1rem solid #049372;

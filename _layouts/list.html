@@ -18,10 +18,13 @@
   </div>
   
   <div class="container">
-    {% for page in site.pages %}
+    {% assign pages = site.pages | sort: 'date', 'last' %}
+    {% for page in pages %}
     {% if page.layout == 'work' %}
-      <h3>{{ page.title }}</h3>
-      <p>{{ page.intro }} <br> <a href="{{ page.url }}">View the case study &raquo;</a></p>
+      <div class="section">
+        <h3>{{ page.title }}</h3>
+        <p>{{ page.intro }} <br> <a href="{{ page.url }}">View the case study &raquo;</a></p>
+      </div>
     {% endif %}
     {% endfor %}
     <p><a href="/">Home</a></p>
