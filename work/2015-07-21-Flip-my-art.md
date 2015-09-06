@@ -1,9 +1,11 @@
 ---
 title: FMA
 layout: work
-permalink: "work/FMA/"
-intro: FMA is a dubai based e-commerce startup that is a market place for student and amateur artists and first time art buyers.  FMA aims to bring affordable art to everyone. I have been instrumental in leading the entire user experience design process for this. To create a marketplace for an art based startup was new and challenging as art buying is seen as a luxury and mostly the perception of artists has been skewed in the mind of buyers. 
+permalink: work/FMA/
+intro: "FMA is a dubai based e-commerce startup that is a market place for student and amateur artists and first time art buyers.  FMA aims to bring affordable art to everyone. I have been instrumental in leading the entire user experience design process for this. To create a marketplace for an art based startup was new and challenging as art buying is seen as a luxury and mostly the perception of artists has been skewed in the mind of buyers."
+published: true
 ---
+
 
 # Product
 
@@ -40,6 +42,23 @@ Compare artwork in the same setting
 
 Constant user tests were conducted at every level to ensure that we are designing for our users
 
+![Personas]({{site.baseurl}}/work/FMA Persona.png)
+Personas
+
+![Features]({{site.baseurl}}/work/FMA revised scope.001.jpg)
+Features
+
+![Page Elements]({{site.baseurl}}/work/FMA pages and feature.png)
+Page Elements Mapping
+
+![Wireframes]({{site.baseurl}}/work/FMA-wireframes.png)
+Wireframes
+
+![Visuals]({{site.baseurl}}/work/FMA%20Visuals.png)
+Visual Designs
+
+
+
 ## Learnings
 
-The biggest learning was to understand the requirements of artists and buyers fulfilling them, testing constantly to see if what we have designed is intuitive and natural to the users. 
+The biggest learning was to understand the requirements of artists and buyers fulfilling them, testing constantly to see if what we have designed is intuitive and natural to the users.
