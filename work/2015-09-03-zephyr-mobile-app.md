@@ -1,5 +1,5 @@
 ---
-title: Zephyr
+title: Software Test Management
 layout: work
 permalink: work/zephyr/
 intro: A mobile app for their existing software testing product
@@ -8,9 +8,10 @@ published: true
 ---
 
 
+
 # Product
 
-Zephyr Enterprise Edition is a test management platform best suited for departments that have; mature processes, run multiple projects in parallel with very structured testing cycles, and a lot of automated and/or manual testing. We built a mobile app for their existing software testing product.
+The product is a test management platform best suited for departments that have; mature processes, run multiple projects in parallel with very structured testing cycles, and a lot of automated and/or manual testing. We built a mobile app for their existing software testing product.
 
 ## Responsibilities
 
