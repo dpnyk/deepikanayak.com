@@ -8,7 +8,6 @@ published: true
 ---
 
 
-
 # Product
 
 The product is a test management platform best suited for departments that have; mature processes, run multiple projects in parallel with very structured testing cycles, and a lot of automated and/or manual testing. We built a mobile app for their existing software testing product.
